@@ -158,7 +158,24 @@
 ||etradesupply.com
 ||gearbest.com
 ||books.google.com
-||userstyles.org
+||githubusercontent.com
+||githubassets.com
+||akamaihd.net
+||office365.com
+||bscstorage.net
+||javarchive.com
+||bootstrapcdn.com
+||goodsmile.info
+||imagetwist.com
+||linkwithin.com
+||blogimg.jp
+||dmhy.org
+||twitch.tv
+||alicili.cc
+||javstore.net
+||hardwareheaven.com
+||creative.com
+||bluestacks.com
 
 !公司网站
 ||cellzmate.com
