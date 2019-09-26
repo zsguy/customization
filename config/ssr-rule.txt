@@ -90,7 +90,7 @@
 ||cdn.pocket-lint.com
 ||economist.com
 ||chinavasion.com
-||cloudflare.com
+!||cloudflare.com
 ||cloudfront.net
 ||cnn.com
 ||coladrive.com
