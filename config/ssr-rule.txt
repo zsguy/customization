@@ -90,7 +90,6 @@
 ||cdn.pocket-lint.com
 ||economist.com
 ||chinavasion.com
-!||cloudflare.com
 ||cloudfront.net
 ||cnn.com
 ||coladrive.com
@@ -125,7 +124,6 @@
 ||mobilefun.co*
 ||mobimania.ua
 ||nook.com
-||paypal.com
 ||prestigio.com
 ||priceminister.com
 ||qbox.me
@@ -148,7 +146,6 @@
 ||vivaldi.net
 ||wikipedia.org
 ||wikomobile.com
-||yahoo.com
 ||zimuzu.tv
 ||zkcdn.net
 ||anki.com
