@@ -1,7 +1,7 @@
 [Autoproxy 0.3.0]
 ! Title:        gfw自定義名單(autoproxy格式)
 ! Author:       zsguy
-! Version:      2020.5.17
+! Version:      2020.8.4
 ! Expires:      1h
 ! Contact:      hhttps://github.com/zsguy/customization/config
 !------------------------------------------------------------------!
