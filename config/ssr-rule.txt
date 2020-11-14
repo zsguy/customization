@@ -1,7 +1,7 @@
 [Autoproxy 0.3.0]
 ! Title:        gfw自定義名單(autoproxy格式)
 ! Author:       zsguy
-! Version:      2020.8.4
+! Version:      2020.11.14
 ! Expires:      1h
 ! Contact:      hhttps://github.com/zsguy/customization/config
 !------------------------------------------------------------------!
@@ -179,6 +179,7 @@
 ||apk.tw
 ||reimu.net
 ||porno-island.games
+||anime-sharing.com
 
 !公司网站
 ||cellzmate.com
