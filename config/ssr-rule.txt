@@ -1,11 +1,12 @@
 [Autoproxy 0.3.0]
 ! Title:        gfw自定義名單(autoproxy格式)
 ! Author:       zsguy
-! Version:      2023.9.24
+! Version:      2024.5.18
 ! Expires:      1h
 ! Contact:      https://github.com/zsguy/customization/config
 !------------------------------------------------------------------!
 ||drp.su
+||x.com
 ||xvideos.com
 ||instagram.com
 ||amazonaws.com
