@@ -1,7 +1,7 @@
 [Autoproxy 0.3.0]
 ! Title:        gfw自定義名單(autoproxy格式)
 ! Author:       zsguy
-! Version:      2024.7.29
+! Version:      2024.9.29
 ! Expires:      1h
 ! Contact:      https://github.com/zsguy/customization/config
 !------------------------------------------------------------------!
@@ -189,6 +189,7 @@
 ||6tor.org
 ||6tor.info
 ||f95zone.to
+||blog.jp
 
 !公司网站
 ||cellzmate.com
