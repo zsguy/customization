@@ -1,7 +1,7 @@
 [Autoproxy 0.3.0]
 ! Title:        gfw自定義名單(autoproxy格式)
 ! Author:       zsguy
-! Version:      2026.1.13
+! Version:      2026.7.18
 ! Expires:      1h
 ! Contact:      https://github.com/zsguy/customization/config
 !------------------------------------------------------------------!
@@ -190,6 +190,7 @@
 ||f95zone.to
 ||blog.jp
 ||spring-plus.net
+||hitomi.la
 
 !公司网站
 ||cellzmate.com
